@@ -8,11 +8,11 @@ public class DataTypes {
 
 
     public static void main(String[] args) {
-        //примитивные
-        //целочисленные byte; short; int; long -9,223,372,036,854,775,808.    .9,223,372,036,854,775,807;
-        // с плавающей точкой double; float;
-        // символьные char;
-        // логические boolean;
+//        примитивные
+//        целочисленные byte; short; int; long -9,223,372,036,854,775,808.    .9,223,372,036,854,775,807;
+//         с плавающей точкой double; float;
+//         символьные char;
+//         логические boolean;
 
         int a;
         //System.out.println(a);
